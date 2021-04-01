@@ -9,6 +9,8 @@ Inspired by:
 
 - Create and activate a [Python3 virtual environment](https://stackoverflow.com/a/19848770/)
 - Install dependencies with `pip install -r requirements.txt`
+- Run `python ctrlc.py`
+- Paste with `ctrl+v`!
 
 ## Important!
 - Needs a clipboard manager. e.g. xsel or xclip on GNU/Linux
